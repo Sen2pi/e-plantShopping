@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/e-plantShopping/static/css/main.d9f9834f.css",
-    "main.js": "/e-plantShopping/static/js/main.3686983d.js",
+    "main.js": "/e-plantShopping/static/js/main.a2cc888a.js",
     "index.html": "/e-plantShopping/index.html",
     "main.d9f9834f.css.map": "/e-plantShopping/static/css/main.d9f9834f.css.map",
-    "main.3686983d.js.map": "/e-plantShopping/static/js/main.3686983d.js.map"
+    "main.a2cc888a.js.map": "/e-plantShopping/static/js/main.a2cc888a.js.map"
   },
   "entrypoints": [
     "static/css/main.d9f9834f.css",
-    "static/js/main.3686983d.js"
+    "static/js/main.a2cc888a.js"
   ]
 }
