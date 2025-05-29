@@ -1,5 +1,6 @@
+
 import { Provider } from 'react-redux';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import store from './store';
 import ProductList from './ProductList';
 import './App.css';
